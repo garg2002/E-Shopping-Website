@@ -50,7 +50,7 @@
  
           <div class="col-4">
          <form action="manage.php" method="POST">
-             <a href="detailed_page.php"><img src="images/gallery-2.jpg">
+             <a href="#"><img src="images/gallery-2.jpg">
             <h4>Red printed T-Shirt</h4></a>
              <div class="rating">
                  <i class="fa fa-star"></i>
@@ -68,7 +68,7 @@
  </div>     
          <div class="col-4">
  <form action="manage.php" method="POST">
- <a href="detailed_page1.php">      
+ <a href="#">      
              <img src="images/product-2.jpg">
              <h4>Hrx Shoes</h4></a>
              <div class="rating">
@@ -89,7 +89,7 @@
  
      <div class="col-4">
   <form action="manage.php" method="POST">
-         <a href="detailed_page2.php"><img src="images/product-3.jpg">
+         <a href="#"><img src="images/product-3.jpg">
          <h4>Track Pants</h4></a>
          <div class="rating">
              <i class="fa fa-star"></i>
@@ -116,7 +116,7 @@
  
           <div class="col-4">
          <form action="manage.php" method="POST">
-             <a href="detailed_page3.php"><img src="images/saree1.jpg" id="saree">
+             <a href="#"><img src="images/saree1.jpg" id="saree">
             <h4>Silk Saree</h4></a>
              <div class="rating">
                  <i class="fa fa-star"></i>
@@ -134,7 +134,7 @@
  </div>     
          <div class="col-4">
  <form action="manage.php" method="POST">      
-             <a href="detailed_page4.php"><img src="images/kurta1.jpg">
+             <a href="#"><img src="images/kurta1.jpg">
              <h4>Shawl</h4></a>
              <div class="rating">
                  <i class="fa fa-star"></i>
@@ -154,7 +154,7 @@
  
      <div class="col-4">
   <form action="manage.php" method="POST">
-         <a href="detailed_page5.php"><img src="images/jacket1.jpg">
+         <a href="#"><img src="images/jacket1.jpg">
          <h4>Winter jacket</h4></a>
          <div class="rating">
              <i class="fa fa-star"></i>
@@ -180,7 +180,7 @@
  
           <div class="col-4">
          <form action="manage.php" method="POST">
-            <a href="detailed_page6.php"> <img src="images/kid1.webp" id="kid1">
+            <a href="#"> <img src="images/kid1.webp" id="kid1">
             <h4>Kids Hoodie</h4></a>
              <div class="rating">
                  <i class="fa fa-star"></i>
@@ -198,7 +198,7 @@
  </div>     
          <div class="col-4">
  <form action="manage.php" method="POST">      
-             <a href="detailed_page7.php"><img src="images/shirtkid.jpg">
+             <a href="#"><img src="images/shirtkid.jpg">
              <h4>Shirt</h4></a>
              <div class="rating">
                  <i class="fa fa-star"></i>
@@ -218,7 +218,7 @@
  
      <div class="col-4">
   <form action="manage.php" method="POST">
-        <a href="detailed_page8.php"> <img src="images/wintercap.jpg">
+        <a href="#"> <img src="images/wintercap.jpg">
          <h4>Winter Cap</h4></a>
          <div class="rating">
              <i class="fa fa-star"></i>
